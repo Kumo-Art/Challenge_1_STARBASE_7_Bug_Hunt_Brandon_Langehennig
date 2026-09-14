@@ -1,3 +1,6 @@
+//Code Reviewer: Zackary Santos
+//Review: Code does not work when runnning in terminal.
+
 // ============================================================
 //   STARBASE-7  SYSTEMS CHECK TERMINAL
 // ============================================================
